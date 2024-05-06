@@ -10,3 +10,5 @@ A empresa ABX Tecnologia não tem 100% do controle sobre a análise de créditos
 # Resolução
 Para resolver o problema de forma prática e simples, iremos definir grupos e quais requisitos devem ser preenchidos para fazer parte dele. Desta forma após a analise de  dados o cliente será encaixado no melhor grupo.
 Nosso projeto será desenvolvido na linguagem python e usaremos modelos de machine learning e deep learning para ter uma precisão melhor na analise de dados. Usaremos dados sobre renda e histórico de dividas como fortes parâmetros para obter a compra a longo prazo ou não.
+
+*atualizar* -> Readme ->definir grupos - como, pq
