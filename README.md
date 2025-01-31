@@ -1,9 +1,3 @@
-# 2TDSB
-# Integrantes:
-550562 - Larissa Akemi Iwamoto
-
-98163 - Júlia Martins Santana Figueiredo
-
 # Desafio
 A empresa ABX Tecnologia enfrenta desafios na análise de crédito dos clientes, com o atual processo não é possível identificar o perfil e comportamento dos clientes. Isso resulta em decisões de concessão de crédito menos precisas e adaptadas ás necessidades individuais de cada cliente.
 
